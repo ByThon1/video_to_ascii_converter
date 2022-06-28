@@ -1,5 +1,7 @@
 Libraries:
+
 PIL # pip install Pillow
+
 cv2 # pip install opencv-python
 
 # video_to_ascii_converter
