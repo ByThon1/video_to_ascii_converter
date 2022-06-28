@@ -8,7 +8,7 @@ import time
 
 class run:
     def __init__(self):
-	file_name = input("file name:")
+        file_name = input("file name:")
         self.size = 7
         self.starttop = 0
         self.count = 0
